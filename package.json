@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "microsoft-cognitiveservices-speech-sdk": "^1.12.1",
+    "node-audiorecorder": "^2.2.0",
     "nodemon": "^2.0.4"
   }
 }
